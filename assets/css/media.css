@@ -1,0 +1,61 @@
+@media (min-width:200px) and (max-width:600px) {
+  [class*='col-']{
+    width: 100%;
+  }
+  img{
+    width: 90%;
+  }
+  h1{
+    font-size: 140%;
+    padding-right: 20%;
+  }
+  h4{
+    padding-left: 10%;
+  }
+  .titulo{
+    padding-left: 10%;
+  }
+  .titulo-2{
+    padding-left: 10%;
+
+  }
+  .texto-uno{
+    padding-left: 10%;
+
+  }
+  .texto-dos{
+    padding-left: 10%;
+
+  }
+  .texto-tres{
+    padding-left: 10%;
+  }
+  .phone{
+    padding-left: 10%;
+
+  }
+  .caja{
+    margin-left: 10%;
+
+  }
+  .call{
+    padding-left: -5%;
+  }
+
+  .fila{
+    padding-left: 10%;
+  }
+  .menu2{
+    display: none;
+  }
+  .barra{
+    display: inline-block;
+    width: 20%;
+    padding-left: 25%;
+    padding-top: 5%;
+  }
+  .stb{
+    width: 60%;
+  }
+
+}
